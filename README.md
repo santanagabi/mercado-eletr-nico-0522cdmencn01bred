@@ -17,3 +17,5 @@
 ### [Aula 06 - Variaveis e operadores](./06/README.md)
 
 ### [Aula 07 - Função e condicionais](./07/README.md)
+
+### [Aula 08 - Estrutura de repetição e vetores](./08/README.md)
