@@ -12,6 +12,6 @@
 
 ### [Aula 05 - Resolvendo conflitos no controle de versão](./05/README.md)
 
-## Módulo 2 - Visual Studio
+## Módulo 2 - Introducao a linguagem C#
 
-### Aula 06 - Introdução a linguagem C#
+### [Aula 06 - Variaveis e operadores](./06/README.md)
