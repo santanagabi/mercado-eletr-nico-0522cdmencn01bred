@@ -10,7 +10,7 @@
 
 ### [Aula 04 - Contribuíndo em projetos de código aberto](./04/README.md)
 
-### Aula 05 - Resolvendo conflitos no controle de versão
+### [Aula 05 - Resolvendo conflitos no controle de versão](./05/README.md)
 
 ## Módulo 2 - Visual Studio
 
