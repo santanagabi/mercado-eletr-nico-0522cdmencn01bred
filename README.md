@@ -8,7 +8,7 @@
 
 ### [Aula 03 - Ramificando o controle de versão](./03/README.md)
 
-### Aula 04 - Contribuíndo em projetos de código aberto
+### [Aula 04 - Contribuíndo em projetos de código aberto](./04/README.md)
 
 ### Aula 05 - Resolvendo conflitos no controle de versão
 
