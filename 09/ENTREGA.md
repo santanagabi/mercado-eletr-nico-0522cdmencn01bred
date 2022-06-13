@@ -8,9 +8,9 @@
 
 #### Colaboradores
 
-#### Link do reposit�rio
+#### Link do repositório
 
-#### Descri��o/Observa��o (Opcional)
+#### Descrição/Observação (Opcional)
 
 ----
 
@@ -23,9 +23,9 @@
 - Danilo Sanada
 - Hugo Diniz
 
-#### Link do reposit�rio
+#### [Link do repositório](https://github.com/Caroline-githubb/Aula09)
 
-#### Descri��o/Observa��o (Opcional)
+#### Descrição/Observação (Opcional)
 
 ----
 
@@ -38,9 +38,11 @@
 - Mayara Abreu
 - Gabrielle Oliveira
 
-#### Link do reposit�rio
+#### Link do repositório: 
+https://github.com/cgcagnoni/aula09-exercicio
 
-#### Descri��o/Observa��o (Opcional)
+#### Descrição/Observação (Opcional)
+Exercício incompleto pois estamos com dificuldade na implantação das exceções.
 
 ----
 
@@ -53,9 +55,13 @@
 - Martinelli
 - Renata Kim
 
-#### Link do reposit�rio
+#### Link do repositório: [ Grupo 3 ](https://github.com/cassiofreitas/aula09_tratamento_de_excecoes)
 
-#### Descri��o/Observa��o (Opcional)
+#### Descrição/Observação (Opcional)
+ - cassiofreitas
+   - melhorias no tratamento de erros ainda em curso
+   - adicionei os comentários via GitHub
+   - não podemos alterar os dados aqui, como colaboradores; ainda exige pull request.
 
 ----
 
@@ -67,9 +73,11 @@
 - Iasmim Vivanco
 - Marcelo Alves
 
-#### Link do reposit�rio
+#### Link do repositório https://github.com/beatrizfriso/aula9-excecoes
 
-#### Descri��o/Observa��o (Opcional)
+#### Descrição/Observação (Opcional): 
+
+Entrega parcial, ainda estamos resolvendo alguns erros. 
 
 ----
 
@@ -80,11 +88,11 @@
 - Amanda Barreto
 - Anderlany (Lany) 
 - Jose Iranildo Junior
-- Nathalia Fran�a
+- Nathalia França
 
-#### Link do reposit�rio
+#### [Link do repositório](https://github.com/lanyarag/calculadora.git)
 
-#### Descri��o/Observa��o (Opcional)
+#### Descrição/Observação (Opcional)
 
 ----
 
@@ -92,13 +100,13 @@
 
 #### Colaboradores
 
-- Isabel Cat�o
-- Ma�ra Helo�sa Silva Oliveira
-- Salom�o Kim
+- Isabel Catão
+- Maíra Heloísa Silva Oliveira
+- Salomão Kim
 
-#### Link do reposit�rio
+#### [Link do repositório](https://github.com/isabelalvescatao/aula09-Tratamento_de_erro)
 
-#### Descri��o/Observa��o (Opcional)
+#### Descrição/Observação (Opcional)
 
 ----
 
@@ -111,6 +119,9 @@
 - Matheus Texeira
 - Sabrina Helena Ferreira
 
-#### Link do reposit�rio
+#### [Link do repositório](https://github.com/sabrinahelena/aula-09_tratamento-de-erro)
 
-#### Descri��o/Observa��o (Opcional)
+#### Descrição/Observação (Opcional)
+
+Atividade foi feita utilizando o LiveShare do Visual Studio.
+
