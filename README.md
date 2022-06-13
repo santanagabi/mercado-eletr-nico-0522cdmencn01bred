@@ -19,3 +19,5 @@
 ### [Aula 07 - Função e condicionais](./07/README.md)
 
 ### [Aula 08 - Estrutura de repetição e vetores](./08/README.md)
+
+### [Aula 09 - Tratamento de Error](./09/README.md)
