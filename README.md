@@ -23,3 +23,5 @@
 ### [Aula 09 - Tratamento de Error](./09/README.md)
 
 ### [Aula 10 - Introdução a Orientação a Objeto](./10/README.md)
+
+### [Aula 11 - Controladores de acesso](./11/README.md)
