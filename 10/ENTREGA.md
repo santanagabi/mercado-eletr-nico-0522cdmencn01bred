@@ -1,5 +1,6 @@
 # Aula 10 - Entrega da atividade
 
+
 ## Formato da entrega
 
 **Exemplo**
@@ -40,7 +41,7 @@
 - Nathalia Franca
 
 #### Link do repositório
-
+https://github.com/ArielLopes888/Aula10
 #### Descrição/Observação (Opcional)
 
 ----
@@ -83,7 +84,7 @@
 - Hugo Diniz
 - Luan Victor
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/Hugogdiniz/Aula-10-refatorando-exercicios-poo)
 
 #### Descrição/Observação (Opcional)
 
@@ -98,6 +99,6 @@
 - Matheus Teixeira
 - Salomao Kim
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/sekimzero/Aula10-Refatoracao)
 
 #### Descrição/Observação (Opcional)
