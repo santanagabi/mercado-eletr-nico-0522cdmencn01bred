@@ -125,3 +125,15 @@ Entrega parcial, ainda estamos resolvendo alguns erros.
 
 Atividade foi feita utilizando o LiveShare do Visual Studio.
 
+
+### Grupo 8
+
+#### Colaboradores
+
+- Jaqueline Rossetto Scagliante
+
+#### [Link do repositório](https://github.com/jaquerossetto/aula-09-excessoesErros)
+
+#### Descrição/Observação (Opcional)
+
+Atividade feita sozinha e entregue posteriormente conforme foi conversado com o professor.
