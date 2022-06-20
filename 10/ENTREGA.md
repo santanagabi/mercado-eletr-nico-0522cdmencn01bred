@@ -25,10 +25,11 @@
 - Iasmim Vivanco
 - Sabrina Helena Ferreira
 
-#### Link do repositório
+#### [ Link do repositório ](https://github.com/cgcagnoni/Aula10-Exercicios)
 
 #### Descrição/Observação (Opcional)
-
+- cassiofreitas
+  - decidimos que cada pessoa faria a refatoração de uma atividade, com a ajuda dos demais; a atividade que ficou para mim foi a de refatorar tudo e de "juntar" soluções em um só código. 
 ----
 
 ### Grupo 2
