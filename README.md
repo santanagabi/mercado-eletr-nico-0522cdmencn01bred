@@ -27,3 +27,5 @@
 ### [Aula 11 - Controladores de acesso](./11/README.md)
 
 ### [Aula 12 - Coleção: Array, ArrayList e List](./12/README.md)
+
+### [Aula 13 - Coleção: Enum, Dictionary, Hashtable, SortedList e Iterador](./13/README.md)
