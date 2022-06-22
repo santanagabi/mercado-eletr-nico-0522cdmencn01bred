@@ -39,8 +39,7 @@
 - Nathalia França
 
 #### Link do repositório
-
-**Obs: Exercicio realizado pelo LiveShare**
+https://github.com/ArielLopes888/Aula12
 
 #### Descrição/Observação (Opcional)
 
@@ -82,7 +81,7 @@ Mayara Abreu
 - José Iranildo Junior
 - Salomão Kim
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/sekimzero/Aula12-Matriz.git)
 
 #### Descrição/Observação (Opcional)
 

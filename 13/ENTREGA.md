@@ -53,9 +53,11 @@
 - Laís Baltar
 - Maíra Heloísa Silva Oliveira
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/cassiofreitas/dhme_aulas_e_exercicios/tree/main/aula13_atividade_1)
 
 #### Descrição/Observação (Opcional)
+- cassiofreitas
+  - Equipe optou por discutir o assunto e implementar um código só, demonstrando os conceitos solicitados. 
 
 ----
 
@@ -93,10 +95,10 @@
 #### Colaboradores
 
 - Amanda Barreto
-- Anderlany Lany
+- Anderlany (Lany)
 - Danilo Sanada
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/lanyarag/enumDictionary.git)
 
 #### Descrição/Observação (Opcional)
 
@@ -109,3 +111,8 @@
 - Hugo Diniz
 - Iasmim Vivanco
 - Ingrid Carol
+
+#### Link do repositório
+
+#### Descrição/Observação (Opcional)
+
