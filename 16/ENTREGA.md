@@ -16,9 +16,9 @@
 
 ### Grupo 1
 
-#### Colaboradores
+#### Colaboradores: Alan Santana Vieira, Gabrielle Oliveira Santana, Luan Victor Leite da Silva e Sabrina Helena Ferreira
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/santanagabi/Aula16_WPF)
 
 #### Descrição/Observação (Opcional)
 
