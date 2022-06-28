@@ -4,7 +4,7 @@
 
 ## Proposta 
 
-Usando uma aplicação do tipo console do dotnet, criar uma aplicação que converterá o real (Ró), euro (€), iene (¥) e libra esterlina (£).
+Usando uma aplicação do tipo console do dotnet, criar uma aplicação que converterá o valor em reais (R$) para euro (€), iene (¥) e libra esterlina (£).
 
 **Legenda**
 
