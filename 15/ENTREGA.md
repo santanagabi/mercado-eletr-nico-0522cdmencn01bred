@@ -53,14 +53,18 @@
 
 #### Colaboradores
 
+- Caroliny Cagnoni
 - Cássio Freitas
 - Isabel Catão
 - Renata Kim
 - Sabrina Helena Ferreira
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/cassiofreitas/dhme_conversor_de_moedas)
 
 #### Descrição/Observação (Opcional)
+- O grupo optou por organizar o projeto e os códigos em uma única solução.
+- A opção foi pela solução do desafio proposto.
+- Reuniões, ajustes e debates foram conduzidos para compor a solução apresentada.
 
 ----
 
@@ -73,9 +77,10 @@
 - Carla Rani
 - Maíra Heloísa Silva Oliveira
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/ArielLopes888/CheckPoint)
 
 #### Descrição/Observação (Opcional)
+Melhoras, Prof!
 
 ----
 
