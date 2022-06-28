@@ -98,6 +98,16 @@
 
 #### Colaboradores
 
+#### Link do repositório
+
+#### Descrição/Observação (Opcional)
+
+----
+
+### Grupo 7
+
+#### Colaboradores
+
 - Beatriz Friso
 - Fabiana Sayuri
 - Marcelo Alves
@@ -107,3 +117,12 @@
 
 #### Descrição/Observação (Opcional)
 
+----
+
+### Grupo 8
+
+#### Colaboradores
+
+#### Link do repositório
+
+#### Descrição/Observação (Opcional)
