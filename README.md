@@ -34,4 +34,10 @@
 
 ### [Aula 15 - Introdução à bibliotecas](./15/README.md)
 
-### [Aula 16 - Introdução à Windows Presentation Foundation](./16/README.md)
+### [Aula 16 - WPF: Introdução](./16/README.md)
+
+### [Aula 17 - WPF: XAML](./17/README.md)
+
+### Aula 18 - WPF: MVVM
+
+### [Aula 19 - WPF: Revisão](./19/README.md)
