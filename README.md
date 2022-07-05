@@ -42,4 +42,6 @@
 
 ### [Aula 19 - WPF: Revisão](./19/README.md)
 
-### [Aula 21 - Introdução à banco de dados](./21/README.md)
+### [Aula 21 - Banco de dados: Introdução](./21/README.md)
+
+### [Aula 22 - Banco de dados: Relacionamento](./22/README.md)
