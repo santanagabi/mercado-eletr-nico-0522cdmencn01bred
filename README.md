@@ -45,3 +45,5 @@
 ### [Aula 21 - Banco de dados: Introdução](./21/README.md)
 
 ### [Aula 22 - Banco de dados: Relacionamento](./22/README.md)
+
+### [Aula 23 - Banco de dados: Manipulando dados](./23/README.md)
