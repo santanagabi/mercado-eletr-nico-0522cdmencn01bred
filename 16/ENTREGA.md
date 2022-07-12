@@ -92,8 +92,10 @@
 ### Grupo 7
 
 #### Colaboradores
+- Amanda Barreto
+- Laís Baltar
 
-#### Link do repositório
+#### [Link do repositório](https://github.com/amandacbarreto/BlocoDeNotas)
 
 #### Descrição/Observação (Opcional)
 
