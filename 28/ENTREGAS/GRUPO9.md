@@ -1,9 +1,11 @@
 # Colaboradores
 
-- Seu nome aqui...
+- [Gabrielle Oliveira Santana](https://github.com/santanagabi)
+- [Cassio Freitas](https://github.com/cassiofreitas)
+- [Hugo Gonzaga Diniz](https://github.com/Hugogdiniz)
 
 ## Link do repositório
 
-- [Seu link aqui]()
+- [Mesa de Trabalho](https://github.com/santanagabi/Aula28.git)
 
 ## Descrição/Observação (Opcional)
