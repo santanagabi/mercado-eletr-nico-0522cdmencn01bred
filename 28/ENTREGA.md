@@ -15,3 +15,7 @@
 ## [Grupo 7](./ENTREGAS/GRUPO7.md)
 
 ## [Grupo 8](./ENTREGAS/GRUPO8.md)
+
+## [Grupo 9](./ENTREGAS/GRUPO9.md)
+
+## [Grupo 10](./ENTREGAS/GRUPO10.md)
